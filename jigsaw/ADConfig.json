@@ -1,0 +1,15 @@
+{
+    "intAdStartTime":{"com.senior.puzzle.jigsaw": 0},
+    "next_level_back": {"type": 2, "enable": 1, "skip_times": 2},
+    "next_level_next": {"type": 2, "enable": 1, "skip_times": 2},
+    "memory_game_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "level_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "hint_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "iap_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "reward_block_continue": {"type": 2, "enable": 1, "skip_times": 2},
+    "game_back": {"type": 2, "enable": 1, "skip_times": 2},
+    "online_enter": {"type": 2, "enable": 1, "skip_times": 2},
+    "free_block_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "sign_in_close": {"type": 2, "enable": 1, "skip_times": 2},
+    "int_ad_interval": {"type": null, "enable": null, "skip_times": 90}
+}
