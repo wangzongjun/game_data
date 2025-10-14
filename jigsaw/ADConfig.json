@@ -1,5 +1,5 @@
 {
-    "intAdStartTime":{"com.senior.puzzle.jigsaw": 0,"free.wukong.monkey.blackmythtemplespuzzle":0},
+    "intAdStartTime":{"com.senior.puzzle.jigsaw": 1,"free.wukong.monkey.blackmythtemplespuzzle":0},
     "next_level_back": {"type": 2, "enable": 1, "skip_times": 2},
     "next_level_next": {"type": 2, "enable": 1, "skip_times": 2},
     "memory_game_close": {"type": 2, "enable": 1, "skip_times": 2},
